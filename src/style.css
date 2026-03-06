@@ -1,0 +1,17 @@
+body {
+  background-color: #f0f8ff;
+  font-family: Arial;
+}
+
+.pharmacie {
+  max-width: 900px;
+  margin: auto;
+}
+
+.card {
+  background: white;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+}
